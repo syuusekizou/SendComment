@@ -1,0 +1,7 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/SendComment/.vs/SendComment
+/SendComment/SendComment/bin/Debug/net5.0
+/SendComment/SendComment/obj
