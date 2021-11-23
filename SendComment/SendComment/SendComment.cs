@@ -9,6 +9,8 @@ namespace SendComment
         {
             try
             {
+                Console.WriteLine("弾幕ツール実行中");
+
                 var comment = new CommentAPI(GetConfigPath());
                 if (args.Length > 0)
                 {
